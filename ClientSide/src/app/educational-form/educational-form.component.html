@@ -1,0 +1,55 @@
+<style>
+    input.ng-dirty.ng-invalid{border : 2px solid #ff0000}
+    input.ng-dirty.ng-valid{border: 2px solid #6bc502;}
+</style>
+<div class="row bg-dark text-white">
+    <div class="col-sm-4">
+        <h2 *ngIf="editOption">Submit Educational Information</h2>
+        <h2 *ngIf="!editOption">Edit Educational Information</h2>
+        <form class="m-2" novalidate [formGroup]="form" (ngSubmit)="onSubmit()">
+
+            <div class="form-group" *ngFor="let control of form.educationalControl">
+                <label>{{control.label}}</label>
+                <input class="form-control" [(ngModel)]="educationalInfo[control.modelProperty]"
+                    name="{{control.modelProperty}}" formControlName="{{control.modelProperty}}"
+                    type="{{control.type}}" />
+                <ul class="list-unstyled text-danger" *ngIf="control.dirty && control.invalid">
+                    <li *ngFor="let error of control.getValidationMessages()">
+                        {{error}}
+                    </li>
+                </ul>
+            </div>
+            <input type="submit" [value]="editOption? 'Submit': 'Update'" class="btn btn-primary" />
+        </form>
+    </div>
+
+    <div class="col-sm-8">
+        <table class="table table-bordered text-white">
+            <tr>
+                <th>Id</th>
+                <th>EmployeeId</th>
+                <th>Highest Degree</th>
+                <th>Subject</th>
+                <th>Passing Year</th>
+                <th>CGPA</th>
+                <th>Training</th>
+                <th>Duration</th>
+                <th>Action</th>
+            </tr>
+            <tr *ngFor="let data of educationalData; let odd = odd; let even = even;" [class.bg-success]="odd" [class.bg-warning]="even" style="color: black; font-weight: bold;">
+                <td (click)="getDataToEdit(data)">{{data.id}}</td>
+                <td>{{data.employeeId}}</td>
+                <td>{{data.highestDegree}}</td>
+                <td>{{data.subject}}</td>
+                <td>{{data.passingYear}}</td>
+                <td>{{data.cgpa}}</td>
+                <td>{{data.training}}</td>
+                <td>{{data.duration}}</td>
+                <td>
+                    <button class="btn btn-info" (click)="getDataToEdit(data)"><i class="fa fa-edit"></i></button>&nbsp;&nbsp;
+                    <button class="btn btn-danger" (click)="deleteData(data.id)"><i class="fa fa-trash"></i></button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+export class ViewModel{
+    divName : string;
+    districtName : string;
+    employeeId : number;
+    name : string;
+    doB : Date;
+    gender : string;
+    phone : number;
+    email : string;
+    address : string;
+    highestDegree : string;
+    subject : string;
+    cgpa : number;
+    training : string;
+    depName : string;
+    designation : string;
+    salary : number;
+    image : string;
+}

@@ -1,0 +1,137 @@
+<style>
+    input.ng-dirty.ng-invalid{border: 3px solid #ff0000;}
+    input.ng-dirty.ng-valid{border: 3px solid #6bc502;}
+</style>
+<div class="row bg-dark text-white">
+    <div class="col-sm-4">
+        <form novalidate class="m-2" #form="ngForm" (ngSubmit)="onSubmit(form)" >
+            <div class="form-group">
+                <label>Employee Id</label>
+                <input class="form-control" type="number"
+                name="employeeId" [(ngModel)]="personalInfo.employeeId"
+                #employeeId="ngModel" placeholder="Enter Employee Id....." />
+            </div>
+            <div class="form-group">
+                <label>Name</label>
+                <input class="form-control"
+                name="name" [(ngModel)]="personalInfo.name"
+                #name="ngModel"
+                required
+                pattern="^[A-Z a-z]+$"
+                placeholder="Enter Name here....." />
+                <span *ngIf="name.dirty && name.invalid && name.errors?.['required']">Name is required</span>
+                <span *ngIf="name.invalid && name.errors?.['pattern']">Name contains illegal character</span>
+            </div>
+            <div class="form-group">
+                <label>DoB</label>
+                <input class="form-control" type="date"
+                name="doB" [(ngModel)]="personalInfo.doB"
+                required
+                #doB="ngModel" />
+                <span *ngIf="doB.dirty && doB.errors?.['required']">Date is required</span>
+            </div>
+            <div class="form-group">
+                <label>Male</label>
+                <input type="radio"
+                name="gender" [(ngModel)]="personalInfo.gender"
+                #gender="ngModel" value="Male" />&nbsp;&nbsp;
+                <label>Female</label>
+                <input type="radio"
+                name="gender" [(ngModel)]="personalInfo.gender"
+                #gender="ngModel" />
+            </div>
+            <div class="form-group">
+                <label>Phone</label>
+                <input class="form-control" type="text"
+                name="phone" [(ngModel)]="personalInfo.phone"
+                maxlength="13"
+                minlength="10"
+                #phone="ngModel" placeholder="Enter Phone here....." />
+                <span *ngIf="phone.dirty && phone.errors?.['maxlength']">Phone number can not be more than 13 character</span>
+                <span *ngIf="phone.dirty && phone.errors?.['minlength']">Phone number can not be less than 10 character</span>
+            </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control"
+                name="email" [(ngModel)]="personalInfo.email"
+                #email="ngModel" placeholder="Enter Email here......" />
+            </div>
+            <div class="form-group">
+                <label>Address</label>
+                <input class="form-control" type="text"
+                name="address" [(ngModel)]="personalInfo.address"
+                #address="ngModel" placeholder="Enter Address here....." />
+            </div>
+            <div class="form-group">
+                <label>Division</label>
+                <select class="form-control" name="divisionId" [(ngModel)]="personalInfo.divisionId" #divisionId="ngModel"
+                (change)="getDistrict(divisionId.value)">
+                    <option value="-1" >-----Select Division-----</option>
+                    <option *ngFor="let data of divisionData" value="{{data.divisionId}}">{{data.divName}}</option>
+                </select>
+
+                <!-- <input class="form-control" type="number"
+                name="divisionId" [(ngModel)]="personalInfo.divisionId"
+                #divisionId="ngModel" placeholder="" /> -->
+            </div>
+            <div class="form-group">
+                <label>District</label>
+                <select class="form-control" name="districtId" [(ngModel)]="personalInfo.districtId" #districtId="ngModel">
+                    <option value="-1" >-----Select District-----</option>
+                    <option *ngFor="let data of districtData" value="{{data.districtId}}">{{data.districtName}}</option>
+                </select>
+                <!-- <input class="form-control" type="number"
+                name="districtId" [(ngModel)]="personalInfo.districtId" #districtId="ngModel" /> -->
+            </div>
+            <div class="form-group">
+                <!-- <label>Image</label> -->
+                <!-- <input class="form-control" name="image" [(ngModel)]="personalInfo.image" #districtId="ngModel" /> -->
+
+                <label><i id="imgTag" class="fa fa-upload fa-2x" aria-hidden="true"></i>&nbsp;&nbsp; Upload Image
+                <input id="imgFile" type="file" name="image" style="display: none;"
+                      (change)="onChange($event)" accept="image/*"/></label>
+                <img src="{{personalInfo.image}}" width="150" >
+
+            </div>
+            <button class="btn btn-primary" type="submit"> Submit </button>&nbsp;&nbsp;
+            <button class="btn btn-info" (click)="updateData(personalInfo.employeeId, form)">Update</button>
+        </form>
+    </div>
+
+    <div class="col-sm-8">
+        <table class="table table-bordered table-stripped table-hover text-white">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>DoB</th>
+                <th>Gender</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Address</th>
+                <th>Division</th>
+                <th>District</th>
+                <th>Image</th>
+                <th>Action</th>
+            </tr>
+            <tr *ngFor="let data of personalData; let odd = odd; let even = even;" [class.bg-success]="odd" [class.bg-warning]="even" style="color: black; font-weight: bold;">
+                <td>{{data.employeeId}}</td>
+                <td>{{data.name}}</td>
+                <td>{{data.doB | date}}</td>
+                <td>{{data.gender}}</td>
+                <td>{{data.phone}}</td>
+                <td>{{data.email}}</td>
+                <td>{{data.address}}</td>
+                <td>{{data.divisionId}}</td>
+                <td>{{data.districtId}}</td>
+                <td>
+                    <img src="{{data.image}}" alt="Image" height="50px" width="50px" />
+                </td>
+                <td>
+                    <button class="btn btn-info" (click)="getDataToEdit(data)"><i class="fa fa-edit"></i></button>&nbsp;
+                    <button class="btn btn-danger" (click)="deleteData(data.employeeId)"><i class="fa fa-trash"></i></button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+

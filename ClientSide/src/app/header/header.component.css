@@ -1,0 +1,40 @@
+nav{
+    background-color: rgb(56, 62, 73);
+    padding: 10px;
+}
+
+nav img{
+    height: 70px;
+    width: 70px;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+}
+
+ul li{
+    display: inline-block;
+    padding: 3px;
+    margin-top: 10px;
+     
+}
+
+li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+h2{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 10px;
+    color: #fff;
+}
+span{
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 8px;
+}

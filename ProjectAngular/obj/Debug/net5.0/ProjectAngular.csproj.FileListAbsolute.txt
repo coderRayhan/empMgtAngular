@@ -1,0 +1,377 @@
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ussl\source\repos\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.xml
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\source\repos\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.xml
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\Ussl\Desktop\AngularProject\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.xml
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\Ussl\Desktop\New folder (2)\AngularProject - Copy\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.xml
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.xml
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\munta\OneDrive\Desktop\Rakib Project\9AM\9AM\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.xml
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\appsettings.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\ProjectAngular.exe
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\ProjectAngular.deps.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\ProjectAngular.runtimeconfig.dev.json
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfoInputs.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.AssemblyInfo.cs
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\staticwebassets\ProjectAngular.StaticWebAssets.Manifest.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\scopedcss\bundle\ProjectAngular.styles.css
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.RazorTargetAssemblyInfo.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.csproj.CopyComplete
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ref\ProjectAngular.dll
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.pdb
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\ProjectAngular.genruntimeconfig.cache
+C:\Users\Ussl\Desktop\1.50AMNight\Project\Project_1265125\ProjectAngular\obj\Debug\net5.0\refint\ProjectAngular.dll

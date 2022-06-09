@@ -1,0 +1,39 @@
+
+
+<div class="myclass" *ngFor="let d of viewModel let odd = odd;">
+
+    <div class="card" style="width: 16rem;">
+        <img class="card-img-top" src="{{d.image}}" height="250px" width="50px" alt="Card image cap">
+        <div class="card-body">
+            <h5 class="card-title">{{d.name}}</h5>
+            <p class="card-text">{{d.email}}</p>
+            <p class="card-text">{{d.phone}}</p>
+            <button class="btn btn-primary" (click)="toggle()">Details</button>
+        </div>
+    </div>
+
+    <div class="row" *ngIf="display" >
+        <div class="col-md-6" class="detailClass">
+            <span><strong>Employee Id:  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  </strong>{{d.employeeId}}</span><br><hr>
+            <span><strong>Name:   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  </strong> {{d.name}}</span><br><hr>
+            <span><strong>Date of Birth:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong> {{d.doB | date}}</span><br><hr>
+            <span><strong>Gender:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </strong>{{d.gender}}</span><br><hr>
+            <span><strong>Phone: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.phone}}</span><br><hr>
+            <span> <strong>Email:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.email}}</span><br><hr>
+            <span><strong>Address:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </strong>{{d.address}}</span><br><hr>
+            <span><strong>Division: &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.divName}}</span><br>
+        </div>
+        <div class="col-md-6" class="detailClass">
+            <span><strong>District:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.districtName}}</span><br><hr>
+            <span><strong>Highest Degree:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.highestDegree}}</span><br><hr>
+            <span><strong>Subject:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.subject}}</span><br><hr>
+            <span><strong>CGPA:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.cgpa}}</span><br><hr>
+            <span><strong>Training:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.training}}</span><br><hr>
+            <span><strong>Department:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.depName}}</span><br><hr>
+            <span><strong>Designation:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong>{{d.districtName}}</span><br><hr>
+            <!-- <span><strong>Salary:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </strong>{{d.salary}}</span><br><br> -->
+            <span><strong>Image:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</strong><img src="{{d.image}}" height="80px" width="80px"></span><br><br>
+        </div>
+    </div>
+
+</div>

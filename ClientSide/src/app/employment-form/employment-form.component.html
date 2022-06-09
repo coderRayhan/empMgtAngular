@@ -1,0 +1,152 @@
+
+<style>
+    input.ng-dirty.ng-invalid{border: 3px solid #ff0000;}
+    input.ng-dirty.ng-valid{border: 3px solid #6bc502;}
+</style>
+<div class="row bg-dark text-white">
+    <div class="col-md-4">
+        <div class="bg-danger text-white mb-2" *ngIf="form.invalid">
+          <!-- <ul>
+            <li *ngFor="let error of getFormValidationMessages(form)">
+                {{error}}
+            </li>
+        </ul> -->
+        </div>
+        <h2>Employment Info form</h2>
+        <form novalidate class="m-2" #form="ngForm" (ngSubmit)="onSubmit(form)">
+            <div class="form-group">
+                <label>Id</label>
+                <input class="form-control"
+                name="id" [(ngModel)]="employmentInfo.id" 
+                #id="ngModel"/>
+                <!-- <ul class="list-unstyled text-danger" *ngIf="id.dirty && id.invalid">
+                    <li *ngFor="let error of getValidationMessages(id)">
+                        {{error}}
+                    </li>
+                </ul> -->
+            </div>
+            <div class="form-group">
+                <label>Employee Id</label>
+                <input class="form-control"
+                name="employeeId" [(ngModel)]="employmentInfo.employeeId" 
+                #employeeId="ngModel"
+                required />
+                <!-- <select class="form-control" #dop name="employeeId" (change)="convertIdToNumber(dop.value)">
+                    <option *ngFor="let d of empIdName" value="{{d.employeeId}}">{{d.name}}</option>
+                </select> -->
+            </div>
+            <div class="form-group">
+                <label>Department Id</label>
+                <!-- <input class="form-control"
+                name="departmentId" [(ngModel)]="employmentInfo.departmentId" 
+                #departmentId="ngModel"
+                required /> -->
+                <select class="form-control" #dop name="departmentId" (change)="departmentPopulate(dop.value)">
+                   <option value="-1">-----Select Department-----</option>
+                    <option *ngFor="let data of ddepartment" value="{{data.departmentId}}">{{data.depName}}</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Designation</label>
+                <input class="form-control" 
+                name="designation" [(ngModel)]="employmentInfo.designation"
+                #designation="ngModel"
+                required />
+
+                <!-- <ul class="list-unstyled text-danger" *ngIf="designation.dirty && designation.invalid">
+                    <li *ngFor="let error of getValidationMessages(designation)">
+                        {{error}}
+                    </li>
+                </ul> -->
+            </div>
+            <div class="form-group">
+                <label>IsNew</label>
+                <input type="checkbox" class="checkbox-inline"
+                name="isNew" [(ngModel)]="employmentInfo.isNew"
+                #isNew="ngModel" />
+            </div>
+            <div class="form-group">
+                <label>Salary</label>
+                <input type="text" class="form-control" 
+                name="salary" [(ngModel)]="employmentInfo.salary"
+                #salary="ngModel"
+                required
+                pattern="^[0-9]+$" >
+
+                <!-- <ul class="list-unstyled text-danger" *ngIf="salary.dirty && salary.invalid">
+                    <li *ngFor="let error of getValidationMessages(salary, 'salary')">
+                        {{error}}
+                    </li>
+                </ul> -->
+            </div>
+            <div class="form-group">
+                <label>Reference Name</label>
+                <input class="form-control"
+                name="referenceName"
+                [(ngModel)]="employmentInfo.referenceName"
+                #referenceName="ngModel"
+                required />
+
+                <!-- <ul class="list-unstyled text-danger" *ngIf="referenceName.dirty && referenceName.invalid">
+                    <li *ngFor="let error of getValidationMessages(referenceName)">
+                        {{error}}
+                    </li>
+                </ul> -->
+            </div>
+            <div class="form-group">
+                <label>Reference Phone</label>
+                <input type="number" class="form-control"
+                name="referencePhone"
+                [(ngModel)]="employmentInfo.referencePhone"
+                #referencePhone="ngModel"
+                required
+                pattern="^[0-9]+$" />
+
+                <!-- <ul class="list-unstyled text-danger" *ngIf="referencePhone.dirty && referencePhone.invalid">
+                    <li *ngFor="let error of getValidationMessages(referencePhone)">
+                        {{error}}
+                    </li>
+                </ul> -->
+            </div>
+            <input type="submit" class="btn btn-primary" value="Submit"> &nbsp;&nbsp;
+            <button class="btn btn-info" (click)="updateData(employmentInfo.id, form)">Update</button>
+        </form>
+    </div>
+
+    <div class="col-md-8">
+        <table class="table table-bordered text-white" style="text-align: center;" >
+            <tr>
+                <th>Id</th>
+                <th>Employee Id</th>
+                <th>DepartmentId</th>
+                <th>Designation</th>
+                <th>IsNew</th>
+                <th>Salary</th>
+                <th>Reference Name</th>
+                <th>Reference Phone</th>
+                <th>Action</th>
+            </tr>
+
+            <tr *ngFor="let data of employmentData; let odd = odd; let even = even;" [class.bg-success]="odd" [class.bg-warning]="even" style="color: black; font-weight: bold;">
+                <td>{{data.id}}</td>
+                <td>{{data.employeeId}}</td>
+                <td>{{data.departmentId}}</td>
+                <td>{{data.designation}}</td>
+                <td >
+                    <input type="checkbox"
+                    name="isNew"
+                    [checked]="data.isNew" />
+                </td>
+                <td>{{data.salary}}</td>
+                <td>{{data.referenceName}}</td>
+                <td>{{data.referencePhone}}</td>
+                <td>
+                    <button class="btn btn-info" (click)="getDataToEdit(data)"><i class="fa fa-edit"></i></button>
+                    &nbsp;&nbsp;
+                    <button class="btn btn-danger" (click)="deleteData(data.id)"><i class="fa fa-trash"></i></button>
+
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
